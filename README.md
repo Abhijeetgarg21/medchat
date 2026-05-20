@@ -97,6 +97,7 @@ open up localhost:
 
 	066971257391.dkr.ecr.eu-north-1.amazonaws.com/medicalbot
 
+    066971257391.dkr.ecr.us-east-1.amazonaws.com/medicalbot
 	
 ## 4. Create EC2 machine (Ubuntu) 
 
