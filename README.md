@@ -89,17 +89,19 @@ open up localhost:
 
 	1. AmazonEC2ContainerRegistryFullAccess
 
-	2. AmazonEC2FullAccess
+	2. 
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 315865595366.dkr.ecr.us-east-1.amazonaws.com/medicalbot
+    - Save the URI: 
+
+	066971257391.dkr.ecr.eu-north-1.amazonaws.com/medicalbot
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
 
 ## 5. Open EC2 and Install docker in EC2 Machine:
-	
+	AmazonEC2FullAccess
 	
 	#optinal
 
